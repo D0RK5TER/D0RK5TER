@@ -4,7 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!!!!!!!!!!)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=54&pause=2000&color=801717&vCenter=true&width=600&height=125&lines=Heya%2C+I'm+Jacob.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=54&pause=2000&color=801717&vCenter=true&width=600&height=125&lines=Welcome!!!!!!!!!!)](https://git.io/typing-svg)
 
 ### ⓧ Business Owner and Software Engineer ⓧ
 
